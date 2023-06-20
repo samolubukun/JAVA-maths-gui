@@ -1,0 +1,3 @@
+Area Of Rectangle with length: 4and breadth:5 is 20.0More textArea Of Square with length: 5 is 25.0
+Area Of Triangle with length: 3and breadth:5 is 7.5
+Area Of Rectangle with length: 4and breadth:7 is 28.0
